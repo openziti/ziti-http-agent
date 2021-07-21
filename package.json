@@ -25,7 +25,7 @@
     "cookie": "^0.4.1",
     "dotenv": "^8.2.0",
     "eventemitter3": "^4.0.0",
-    "follow-redirects": "^1.0.0",
+    "follow-redirects": "^1.14.1",
     "greenlock-express": "^4.0.3",
     "greenlock-store-fs": "^3.2.2",
     "heapdump": "^0.3.15",
